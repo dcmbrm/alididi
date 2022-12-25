@@ -94,6 +94,9 @@ h1, h2, h3, h4, h5, h6, figure {
   z-index: 1001;
 }
 @media screen and (max-width: 768px) {
+  html {
+    scroll-behavior: auto;
+  }
   .fh5co-nav {
     padding: 20px 0;
   }
