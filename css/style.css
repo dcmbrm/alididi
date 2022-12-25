@@ -1853,5 +1853,8 @@ html {
 .js .animate-box {
   opacity: 0;
 }
+.js-fh5co-nav-toggle .fh5co-nav-toggle .fh5co-nav-white{
+  display:none !important;
+}
 
 /*# sourceMappingURL=style.css.map */
